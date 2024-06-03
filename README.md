@@ -14,6 +14,17 @@ O'Neill Library
 
 ---
 
+## List of Notebooks
+
+``` bash
+sierra_leon_telegraphy.ipynb # scrapes the Sierra Leon Telegraph (saves to output/siera_leon_telegraph.csv)
+awoko.ipynb # scrapes the Awoko Newspaper (saves to output/awoko_newspaper.csv)
+
+merge_data.ipynb # merges all of the .csv files from the notebooks above into a single spreadsheet
+```
+
+---
+
 ## Installation
 
 ``` bash
