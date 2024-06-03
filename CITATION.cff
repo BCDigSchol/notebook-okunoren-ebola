@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Ælfric Online"
+authors:
+  - familay-names: Okunoren
+    given-names: Oladoyin
+  - family-names: Thomas
+    given-names: David
+abstract: "Various scripts to scrape data related to the dissertation research of Oladoyin Okunoren @ Boston College"
+version: 0.0.1
+date-released: "2024-5-30"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/thePortus/doyin-scrape"
