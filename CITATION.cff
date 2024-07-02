@@ -6,6 +6,8 @@ authors:
     given-names: Oladoyin
   - family-names: Thomas
     given-names: David
+  - family-names: Carver
+    given-names: Lester
 abstract: "Various scripts to scrape data related to the dissertation research of Oladoyin Okunoren @ Boston College"
 version: 0.0.1
 date-released: "2024-5-30"
